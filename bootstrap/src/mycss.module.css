@@ -1,0 +1,63 @@
+.logo{
+    height: 40px;
+    width: 40px;
+
+    
+    ;
+}
+.Nav{
+    padding-top: 2px;
+    margin: 2px;
+    font-size: small;
+    vertical-align:bottom;
+    border-bottom: 1px solid gray;
+    padding-bottom: 0%;
+ 
+}
+
+.slider{
+    width: 100%;
+    height: 300px;
+}
+
+
+.h4 {
+    color:cadetblue;
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+    letter-spacing:normal;
+    word-spacing: 3px;
+    text-align: center!important;
+    display: block;
+    font-size:medium;
+    font-weight: bold;
+    padding-top: 3%;
+    border-bottom: 0ch;
+    
+}
+
+.CardImg 
+{
+ height: 50px;
+ font-variant: normal;
+}
+
+.Button {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size:small;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
